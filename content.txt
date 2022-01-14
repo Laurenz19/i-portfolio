@@ -1,0 +1,92 @@
+---------------------------    
+    self introduction
+---------------------------
+ Name: SAMBANY Michel laurenzio
+ Skills: 
+ web developer / Back-end developer / Front-end developer / Full-stack developer
+ 
+ Brief introduction:
+ Recently graduated with bachelor's degree in software development at "Ecole National d'Informatique", 
+ university of Madagascar, I am avalaible for hire to work remotly as web developer. I qualifed myself
+ as a junior full stack developer, natural curious, quitly confident and hard worker to improve my 
+ knowledges and my skills.
+ + Photo
+
+---------------------------
+  Education & formation
+--------------------------- 
+
+1- 2021: Master
+   =>  Student in Master 1 at "Ecole National d'Informatique", university of Madagascar
+2- 2020: Seeds for the future
+   => Completed the Seed for the Future program organized by Huawei   
+3- 2020: Bachelor
+   => Graduated with bachelor's degree in software development at "Ecole National d'Informatique",
+   university of Madagascar
+
+---------------------------
+    Skills & knowledges
+---------------------------
+ Data Modeling:
+ Among of the important part for me when I create an information systems is data modeling,
+ it defines an overall vision and architecture for information systems.
+
+ Modeling methods & Modeling language: Merise, 2TUP & UML
+ 
+ Tools: Visual Paradigm, Pen & Paper
+ 
+ Front end developer:
+ I am passionate about web application and enjoy bringing ideas come true in the browser.
+
+ Web technologies i use for front-end: 
+ HTML5, CSS3, Javascript, Jquery, Vue.js, React.js bootstrap
+ + Chart
+
+ Tools: Visual studio Code, browser, npm
+
+ Back end developer:
+ Creating Back end is my favorite part when I build an application
+
+ technologies for Back-end: javascript (Node.js), Firebase, stripe.js
+ DBMS: MariaDB, MongoDB, MySql
+ 
+ Tools: Visual studio Code, Postman, npm, wamp server 
+
+ Versioning Control:
+ To maintain the documentation and configuration files as well as the source code,
+ I use git versioning. It allows me to work with other developers easily.
+
+ Tools:
+ Github, Gitlab
+
+-------------------------
+        Services
+-------------------------
+ Building web application: 
+ Creation of a customised website or web application.
+ E-commerce, simple website,... 
+
+ API development: 
+ Creation and development of all of kind of APIs.
+
+-------------------------
+    Completed Project
+------------------------- 
+  => Some pics + Github Repositories
+
+-------------------------
+      Get in touch
+-------------------------
+Feel Free to contact me if you are interested in working together!
+
+
+-------------------------
+         Footer
+-------------------------
+learning, working & leveling up one day at a time
+HandCrafted by myself Copyright TwentyTwenty-one
+
+
+
+
+
