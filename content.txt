@@ -68,6 +68,10 @@
 
  API development: 
  Creation and development of all of kind of APIs.
+ 
+ Another version:
+ - Web development: 
+ The web development process includes: web design, web content, front end & back end. 
 
 -------------------------
     Completed Project
